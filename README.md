@@ -1,71 +1,44 @@
 <h1 align="center">Neeraj Kumar Sharma</h1>
 
 <p align="center">
-  <strong>AI SaaS Product Engineer · Full-Stack Developer</strong>
+  <strong>Technical Product Manager · AI and B2B SaaS · 0 to 1 Products</strong>
 </p>
 
 <p align="center">
-  Building production-ready SaaS platforms with Next.js, TypeScript, Supabase, and AI workflows.
+  I turn ambiguous customer workflows into products that ship and hold up in production.
 </p>
 
 <p align="center">
-  <a href="https://itsneeraj.com">Portfolio</a> ·
+  <a href="https://itsneeraj.com">Product portfolio</a> ·
+  <a href="https://itsneeraj.com/Neeraj_Sharma_Technical_Product_Manager_Resume.pdf">PM resume</a> ·
   <a href="https://linkedin.com/in/neer4j">LinkedIn</a> ·
-  <a href="https://github.com/NEER4J">GitHub</a> ·
   <a href="mailto:ittsneeraj@gmail.com">Email</a>
 </p>
 
----
+## Product work
 
-### About
+| Product | Product problem and ownership | Outcome |
+| --- | --- | --- |
+| [Docsiv](https://docsiv.com) | Founder and Product Lead for an AI document workspace connecting creation, brand context, client portals, sharing, signing, analytics, and billing. | Live and onboarding early agencies |
+| [Govgrant.ca](https://govgrant.ca) | Led delivery of RAG-based grant discovery, automated data refreshes, subscriptions, billing, and administration. | 2,000+ users and 300+ grants refreshed daily |
+| [SpeedIQ](https://app.speediq.ai) | Led major delivery across WhatsApp and email campaigns, chatbot automation, live chat, analytics, and Meta onboarding. | 100k+ messages delivered |
 
-I’m Neeraj, a full-stack AI SaaS engineer with 4+ years of experience building production-ready platforms, automation systems, and AI-powered products.
+## How I work
 
-My work focuses on:
+- Start with the user workflow and the cost of the current workaround.
+- Turn ambiguity into a clear product boundary, tradeoffs, and roadmap.
+- Work closely with design and engineering, using technical depth to reduce uncertainty.
+- Learn from production usage and customer conversations before making the next bet.
 
-- Multi-tenant SaaS platforms
-- AI workflows, RAG pipelines, and LLM integrations
-- Product dashboards, analytics, and automation
-- Payment-integrated platforms
-- Fast, clean, scalable web applications
+## Technical depth
 
----
+`AI and RAG` `LLM workflows` `SQL` `Next.js` `TypeScript` `Node.js` `Python` `PostgreSQL` `Supabase` `APIs` `Multi-tenant SaaS` `Payments`
 
-### Tech Stack
+## Background
 
-**Frontend**  
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Shadcn UI` `Framer Motion`
+- Founder and Product Lead at Docsiv
+- Lead Engineer for AI Products at Virtual Xcellence
+- Full-stack Developer and Project Manager at NJ Designpark
+- B.Tech in Computer Science from CSVTU
 
-**Backend & Database**  
-`Node.js` `Express` `Django` `Supabase` `PostgreSQL` `MongoDB` `REST APIs` `Webhooks`
-
-**AI & Automation**  
-`OpenAI` `Claude` `Gemini` `RAG` `LangChain` `AI Agents` `Vercel AI SDK` `n8n`
-
-**Infrastructure & Tools**  
-`Vercel` `Railway` `Docker` `GitHub` `CI/CD` `Postman` `Figma`
-
-**Payments & Product Systems**  
-`Stripe` `ChargeBee` `Razorpay` `Multi-tenant SaaS` `Analytics` `White-label Platforms`
-
----
-
-### Featured Projects
-
-| Project | Description |
-|---|---|
-| **Docsiv** | AI-powered document hub for agencies with white-label portals, analytics, exports, billing, and AI document workflows. |
-| **Govgrant.ca** | AI grant-matching SaaS helping Canadian businesses discover relevant government grants using RAG-based recommendations. |
-| **SpeedIQ** | Multi-tenant WhatsApp and email marketing platform with broadcasts, chatbots, live chat, and campaign analytics. |
-
----
-
-### What I Build Best
-
-```txt
-AI SaaS products
-Multi-tenant platforms
-RAG-powered workflows
-Document and analytics systems
-Automation-heavy business tools
-Fast MVPs that can become real products
+Read the full product case studies at **[itsneeraj.com](https://itsneeraj.com)**.
